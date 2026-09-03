@@ -1,14 +1,16 @@
-<h1 align="center">Siva Kumar Thandra 👋</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+SQL+%7C+Python+%7C+Power+BI;ETL+%7C+Snowflake+%7C+Machine+Learning;RAG+%7C+LangChain+%7C+OpenAI+APIs" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi, I'm Siva Kumar Thandra 👋</h1>
 
 <p align="center">
   📍 Dublin, Ireland &nbsp;•&nbsp; 📧 your@email.com <br><br>
   📞 +353 899593341 <br><br>
   <a href="https://www.linkedin.com/in/siva-kumar-thandra/">🔗 LinkedIn</a>
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+SQL+%7C+Python+%7C+Power+BI;ETL+%7C+Snowflake+%7C+Machine+Learning;RAG+%7C+LangChain+%7C+OpenAI+APIs" alt="Typing SVG" />
+</p>
+
+---
 
 ---
 
