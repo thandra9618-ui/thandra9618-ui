@@ -1,16 +1,13 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Hi+I'm+Siva+Kumar+Thandra+👋;Data+Analyst+%7C+Dublin+Ireland;Python+%7C+SQL+%7C+Power+BI+%7C+ML" alt="Typing SVG" />
-</h1>
+<h1 align="center">Siva Kumar Thandra 👋</h1>
 
 <p align="center">
-  <b>Data Analyst (3+ years) • Python • SQL • Power BI • Machine Learning</b><br><br>
-  📍 Dublin, Ireland &nbsp;•&nbsp; 
-  📧 sivakumarthandra96@gmail.com &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/siva-kumar-thandra/">LinkedIn</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+SQL+%7C+Python+%7C+Power+BI;ETL+%7C+Snowflake+%7C+Machine+Learning;RAG+%7C+LangChain+%7C+OpenAI+APIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thandra9618-ui&label=Profile%20Views&color=2E75B6&style=flat" alt="profile views" />
+  📍 Dublin, Ireland &nbsp;•&nbsp; 📧 your@email.com <br><br>
+  📞 +353 899593341 <br><br>
+  <a href="https://www.linkedin.com/in/siva-kumar-thandra/">🔗 LinkedIn</a>
 </p>
 
 ---
@@ -45,6 +42,8 @@ feature engineering → modelling → visualisation → insight delivery.
 **Languages:** Python, SQL, R, Excel  
 **Machine Learning:** scikit-learn, XGBoost, PyTorch, SHAP  
 **Visualisation:** Power BI, Tableau, Matplotlib, Seaborn  
+**ETL & Data Platforms:** Snowflake, Azure Data Factory, Databricks  
+**GenAI:** RAG, LangChain, OpenAI APIs  
 **Spatial & Geocoding:** OSMnx, GeoPy, Nominatim, Haversine  
 **Cloud:** Oracle Cloud Infrastructure (OCI), Microsoft Azure  
 **Tools:** Google Colab, Git, NTA GTFS, OpenStreetMap  
