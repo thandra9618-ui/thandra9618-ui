@@ -1,6 +1,6 @@
-# Hi, I'm Siva Kumar Thandra 👋
-Data Analyst (3+ years) • Python • SQL • Power BI • Machine Learning • Spatial Analytics  
-📍 Dublin, Ireland • 🔗 [LinkedIn](https://www.linkedin.com/in/siva-kumar-thandra/)
+                                                      # Hi, I'm Siva Kumar Thandra 👋
+                              Data Analyst (3+ years) • Python • SQL • Power BI • Machine Learning • Spatial Analytics  
+                                📍 Dublin, Ireland • 🔗 [LinkedIn](https://www.linkedin.com/in/siva-kumar-thandra/)
 
 ---
 
