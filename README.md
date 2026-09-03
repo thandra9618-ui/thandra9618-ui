@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Siva Kumar Thandra 👋</h1>
 
 <p align="center">
-  📍 Dublin, Ireland &nbsp;•&nbsp; 📧 your@email.com <br><br>
+  Data Analyst (3+ years) • SQL • Python • Power BI • ETL • ML • RAG/LLMs
+  📍 Dublin, Ireland &nbsp;•&nbsp; 📧 tghandra9618@gmail.com.com <br><br>
   📞 +353 899593341 <br><br>
   <a href="https://www.linkedin.com/in/siva-kumar-thandra/">🔗 LinkedIn</a>
 </p>
